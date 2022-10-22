@@ -1,0 +1,61 @@
+*{
+	margin: 0%;
+}
+.navigation {
+	background-color: white;
+	padding: 2%;
+	font-family: 'Poppins', sans-serif;
+}
+.navigation img{
+	vertical-align: middle;
+}
+.Paytmlogo{
+	margin: 0% 5% 0% 4%;
+}
+.navigation a{
+	color: black;
+	font-size: 14px;
+	text-decoration: none;
+	margin-left: 2%;
+}
+#SignIn{
+	margin-left: 8%;
+	background-color: #00baf2;
+	color: white;
+	padding: 0.5%;
+	border-radius: 25px;
+	text-align: center;
+}
+.smile{
+	background-color: rgba(239, 239, 240, 0.8) ;
+	padding: 10px;
+	text-align: center;
+	font-size: ;
+	font-family: 'Poppins', sans-serif;
+}
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 0% 6% ;
+}
+.India{
+	font-size: 50px;
+}
+.recharge{
+	font-size: 20px;
+	margin-bottom: 4%;
+}
+.download{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	width: 48%;
+	padding: 1.5% 1%;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: space-between;
+}
+.download:hover{
+	background-color: white;
+	color: black;
+}
