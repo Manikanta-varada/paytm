@@ -115,9 +115,10 @@
     padding: 5% 0% 5% 10%;
     color: black;
     border-radius: 10px;
+    font-size: 15px;
 }
 .fast{
-	font-size: 35px;
+	font-size: 25px;
 	background-color: #fff;
 	padding: 1% 0% 5% 10%;
 }
@@ -126,4 +127,79 @@
 	background-color: #fff;
 	padding: 1% 0% 5% 10%;
 
+}
+.adownload{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	width: 48%;
+	/*padding: 3% 1%;*/
+	padding: 0% 1.5% 0% 1%;
+	margin-left: 10%;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: space-between;
+	font-size: 15px;
+	width: 15%;
+	/*background-color: #fff;*/
+	}
+.adownload:hover{
+	background-color: white;
+	color: black;
+}
+.sec6{
+	background-color: #f5f9fe;
+	/*font-size: 30px;*/
+	padding-top: 35px;
+	font-family: 'Poppins', sans-serif;
+	padding: 5% 0% 20% 0%;
+}
+.money{
+	display: flex;
+	text-decoration: none;
+    background-color: #fff;
+    padding: 5% 0% 5% 10%;
+    color: black;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.anyone{
+	font-size: 35px;
+	background-color: #fff;
+	padding: 1% 0% 5% 10%;
+}
+.everywhere{
+	font-size: 15px;
+	background-color: #fff;
+	padding: 1% 0% 5% 10%;
+	font-size: 25px;
+
+}
+.bdownload{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	width: 48%;
+	/*padding: 3% 1%;*/
+	padding: 0% 1.5% 0% 1%;
+	margin-left: 10%;
+	border-radius: 25px;
+	text-align: center;
+	justify-content: space-between;
+	font-size: 15px;
+	width: 15%;
+	/*background-color: #fff;*/
+	}
+.bdownload:hover{
+	background-color: white;
+	color: black;
+}
+.webp{
+	display: flex;
+	text-decoration: none;
+    background-color: #fff;
+    padding: 5% 0% 5% 10%;
+    color: black;
+    border-radius: 10px;
+    font-size: 15px;
 }
