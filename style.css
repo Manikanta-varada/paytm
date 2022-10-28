@@ -109,7 +109,7 @@
 	}
 .sec5div1{
 	display: flex;
-	padding: 2% 0% 20% 15%;
+	padding: 2% 0% 10% 5%;
 	background-color:white;
 	justify-content: space-between;
 }
@@ -136,7 +136,7 @@
 .adownload{
 	border: 1px solid black;
 	background-color: black;
-	/*color: white;*/
+	/color: white;/
 	width: 48%;
 	padding: 0% 1.5% 0% 1%;
 	margin-left: 10%;
@@ -153,58 +153,386 @@
 
 .sec6{
 	background-color: #f5f9fe;
-	/*font-size: 30px;*/
-	padding-top: 35px;
+	font-size: 30px;
+	padding: 8% ;
 	font-family: 'Poppins', sans-serif;
-	padding: 5% 0% 20% 0%;
+
+}
+.sec6div1{
 	display: flex;
+	padding: 2% 0% 10% 5%;
+	background-color:white;
+	justify-content: space-between;
+
 }
 .money{
 	display: flex;
 	text-decoration: none;
     background-color: #fff;
-    padding: 5% 0% 5% 10%;
+    padding: 5% 0% 5% 40%;
     color: black;
     border-radius: 10px;
     font-size: 15px;
+    padding: 1% 0% 5% 10%;
+
 }
 .anyone{
 	font-size: 35px;
 	background-color: #fff;
 	padding: 1% 0% 5% 10%;
-}
-.everywhere{
-	font-size: 15px;
-	background-color: #fff;
-	padding: 1% 0% 5% 10%;
-	font-size: 25px;
 
 }
-.bdownload{
+.everywhere{
+	font-size: 20px;
+	background-color: #fff;
+	padding: 1% 0% 5% 10%;
+
+}
+.adownload{
 	border: 1px solid black;
 	background-color: black;
-	color: white;
+	/color: white;/
 	width: 48%;
-	/*padding: 3% 1%;*/
 	padding: 0% 1.5% 0% 1%;
 	margin-left: 10%;
-	border-radius: 25px;
+	border-radius: 35px;
 	text-align: center;
-	justify-content: space-between;
 	font-size: 15px;
-	width: 15%;
-	/*background-color: #fff;*/
+	width: 50%;
+	background-color: #fff;
 	}
-.bdownload:hover{
-	background-color: white;
-	color: black;
+.adownload:hover{
+	background-color: black ;
+	color: white;
 }
-.webp{
+.sec7{
+	background-color: #f5f9fe;
+	font-size: 30px;
+	padding: 8% ;
+	font-family: 'Poppins', sans-serif;
+
+}
+.sec7div1{
 	display: flex;
+	padding: 2% 0% 10% 5%;
+	background-color:white;
+	justify-content: space-between;
+
+}
+.want{
+	font-size: 40px;
+	background-color: #fff;
+	padding: 5% 0% 7% 5%;
+
+}
+.with{
+	font-size: 17px;
+	background-color: #fff;
+	padding: 1% 0% 7% 5%;
+
+}
+.learn{
+	border: 1px solid black;
+	background-color: #00baf2;
+	width: 30%;
+	margin: 35% 0% 5% 7%;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 25px;
+	}
+.learn:hover{
+	background-color: #00baf2 ;
+	color: white ;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
 	text-decoration: none;
-    background-color: #fff;
-    padding: 5% 0% 5% 10%;
-    color: black;
-    border-radius: 10px;
-    font-size: 15px;
+	background-color: rgba(239, 239, 239, 0.6);
+    border: 0px;
+    font-size: 9px;
+}
+.sec8div1{
+	justify-content: space-between;
+	border: 1px solid rgba(239, 239, 239, 0.6);
+	background-color: white;
+	border-radius: 10px;
+	padding: 2% 7% 1% 5%;
+	margin: -5% 3% 10% 1%;
+}
+.unlimited{
+	padding: 5% 0% 10% 0%;
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.hdfc{
+	padding: 5% 0% 10% 0%;
+	font-size: 15px;
+	font-family: 'Poppins', sans-serif;
+
+}
+.sec8div2{
+	justify-content: space-between;
+	border: 1px solid rgba(239, 239, 239, 0.6);
+	background-color: white;
+	border-radius: 10px;
+	padding: 7% 7% 1% 5%;
+	margin: -5% 3% 0% 1%;
+}
+.most{
+	padding: 5% 0% 3% 0%;
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+}
+.sbi{
+	padding: 5% 0% 3% 0%;
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+
+}
+.sec9{
+	/background-color: #f5f9fe;/
+	font-size: 30px;
+	padding: 10% ;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 5%;
+
+}
+.sec9div1{
+	display: flex;
+	padding: 5% 0% 10% 0%;
+	background-color:white;
+	justify-content: space-between;
+
+}
+.sincere{
+	font-size: 40px;
+	background-color: #fff;
+	padding: 5% 0% 7% 0%;
+
+}
+.bank{
+	font-size: 17px;
+	background-color: #fff;
+	padding: 1% 0% 7% 0%;
+
+}
+.learn{
+	border: 1px solid black;
+	background-color: #00baf2;
+	width: 50%;
+	margin: 35% 0% 5% 0%;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 25px;
+	}
+.learn:hover{
+	background-color: #00baf2 ;
+	color: white ;
+}
+.sec10{
+	background-color: #f5f9fe;
+	font-size: 30px;
+	padding: 10% ;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 5%;
+	margin-top: -25%;
+
+}
+.sec10div1{
+	display: flex;
+	padding: 5% 0% 10% 0%;
+	background-color: #cfcfcf;
+	justify-content: space-between;
+
+}
+.build{
+	font-size: 40px;
+	background-color: #cfcfcf;
+	padding: 5% 0% 7% 0%;
+
+}
+.invest{
+	font-size: 17px;
+	background-color: #cfcfcf;
+	padding: 1% 0% 7% 0%;
+
+}
+.learn{
+	border: 1px white;
+	background-color: #00baf2;
+	width: 50%;
+	margin: 35% 0% 5% 0%;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 25px;
+	}
+.learn:hover{
+	background-color: #00baf2 ;
+	color: white ;
+}
+.sec11{
+	background-color: #f5f9fe;
+	font-size: 30px;
+	padding: 10% ;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 5%;
+
+}
+.sec11div1{
+	display: flex;
+	padding: 5% 0% 10% 0%;
+	background-color:white;
+	justify-content: space-between;
+
+}
+.insurance{
+	font-size: 40px;
+	background-color: #fff;
+	padding: 5% 0% 7% 0%;
+
+}
+.buy{
+	font-size: 17px;
+	background-color: #fff;
+	padding: 1% 0% 7% 0%;
+
+}
+.alearn{
+	border: 1px white;
+	background-color: #00baf2;
+	width: 40%;
+	margin: 35% 0% 5% 0%;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 25px;
+	}
+.alearn:hover{
+	background-color: #00baf2 ;
+	color: white ;
+}
+.sec12{
+	background-color: #f5f9fe;
+	font-size: 30px;
+	padding: 10% ;
+	font-family: 'Poppins', sans-serif;
+	padding-left: 5%;
+	margin-top: -25%;
+
+}
+.sec12div1{
+	display: flex;
+	padding: 15% 0% 10% 0%;
+	background-color: #cfcfcf;
+	justify-content: space-between;
+
+}
+.get{
+	font-size: 20px;
+	background-color: #cfcfcf;
+	padding: 15% 5% 7% 0%;
+
+}
+.quick{
+	font-size: 10px;
+	background-color: #cfcfcf;
+	padding: 15% 5% 7% 0%;
+
+}
+.learn{
+	border: 1px white;
+	background-color: #00baf2;
+	width: 50%;
+	margin: 35% 0% 5% 0%;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 25px;
+	}
+.learn:hover{
+	background-color: #00baf2 ;
+	color: white ;
+}
+
+@media (max-width: 390px){
+	.navigation a{
+		font-size: 5px;
+	}
+	.smile{
+		font-size: 7px;
+	}
+	.India{
+		font-size: 20px;
+	}
+	.recharge{
+		font-size: 10px;
+	}
+	.download{
+		font-size: 5px;
+	}
+	.bill{
+		font-size: 25px;
+	}
+	.sec3div1 a{
+		align-items: center;
+		font-size: 8px;
+	}
+	.book{
+		font-size: 25px;
+	}
+	.sec4div1{
+		font-size: 8px;
+	}
+	.sec5{
+		font-size: 15px;
+	}
+	.wallet{
+		font-size: 9px;
+	}
+	.fast{
+		font-size: 13px;
+	}
+	.load{
+		font-size: 5px;
+	}
+	.adownload{
+		font-size: 5px;
+	}
+	.money{
+		font-size: 10px;
+	}
+	.anyone{
+		font-size: 15px;
+	}
+	.everywhere{
+		font-size: 7px;
+	}
+	.sec6div1{
+		padding: 1% 0% 1% 1%;
+
+	}
+	.sec7div1{
+		padding: 1% 0% 1% 1%;
+	}
+	.want{
+		font-size: 14px;
+	}
+	.with{
+		font-size: 5px;
+	}
+	.learn{
+		font-size: 10px;
+	}
+	.unlimited{
+		font-size: 9px;
+	}
+	.hdfc{
+		font-size: 5px;
+	}
+	.sec8div1{
+		padding: 1% 1% 1% 2%;
+		width: 100%;
+
+	}
 }
